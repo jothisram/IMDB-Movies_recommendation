@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+streamlit
+matplotlib
+seaborn
+wordcloud
+notebook
+ipykernel
+Pillow
